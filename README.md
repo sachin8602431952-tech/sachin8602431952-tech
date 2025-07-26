@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/youtube/channel/subscribers/UC1XLb_DoX2eNWGKjkh2epwA?style=social" />
   </a>
   <a href="https://www.linkedin.com/in/sachin-sangam-">
-    <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Jaiswal-blue?logo=linkedin&style=flat-square" />
+    <img src="https://img.shields.io/badge/LinkedIn-Sachin%20Sangam-blue?logo=linkedin&style=flat-square" />
   </a>
 </p>
 
