@@ -1,19 +1,19 @@
-<h1 align="center">Hey Everyone 👋, I'm Sachin Sangam </h1>
+<h1 align="center">Hey Everyone 👋, I'm Sachin Sangam</h1>
 
 <div align="center">
-  <img src="https://github.com/sachin8602431952-tech/sachin8602431952-tech/blob/main/Banner.png" alt="DevOpsShack Banner">
+  <img src="https://github.com/jaiswaladi246/jaiswaladi246/blob/main/Banner.png" alt="DevOpsShack Banner">
 </div>
 
-<h3 align="center">🌟 Hey there! I'm Sachin Sangam, currently diving into the world of BTech in Computer Science.deos at <a href="https://www.youtube.com/@devopsshack" target="_blank">DevOpsShack</a></h3>
+<h3 align="center">🌟 Hey there! I'm Sachin Sangam, currently diving into the world of BTech in Computer Science. <a href="https://www.youtube.com/@devopsshack" target="_blank">DevOpsShack</a></h3>
 
 <p align="center">
-  <a href="https://www.instagram.com/sach.insangam?igsh=am51cXFkaHFkbzM=">
+  <a href="https://github.com/sachin8602431952-tech">
     <img src="https://img.shields.io/github/followers/jaiswaladi246?label=Follow&style=social" />
   </a>
   <a href="https://www.youtube.com/@SachinTech-2k">
     <img src="https://img.shields.io/youtube/channel/subscribers/UC1XLb_DoX2eNWGKjkh2epwA?style=social" />
   </a>
-  <a href="https://www.linkedin.com/in/sachin-sangam- ">
+  <a href="https://www.linkedin.com/in/sachin-sangam-">
     <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Jaiswal-blue?logo=linkedin&style=flat-square" />
   </a>
 </p>
@@ -32,9 +32,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/adityajaiswal7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://instagram.com/devopsshack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/channel/UC1XLb_DoX2eNWGKjkh2epwA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/sachin-sangam-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/sach.insangam?igsh=am51cXFkaHFkbzM=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/@SachinTech-2k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
 </p>
 
 ---
