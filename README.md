@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/sachin8602431952-tech">
-    <img src="https://img.shields.io/github/followers/jaiswaladi246?label=Follow&style=social" />
+    <img src="https://img.shields.io/github/followers/sachin8602431952-tech?label=Follow&style=social" />
   </a>
   <a href="https://www.youtube.com/@SachinTech-2k">
     <img src="https://img.shields.io/youtube/channel/subscribers/UC1XLb_DoX2eNWGKjkh2epwA?style=social" />
@@ -18,10 +18,10 @@
   </a>
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/sachin sangam/sachin sangam/master/gif3.gif">
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=jaiswaladi246&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=sachin86022431952-teh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/sachin8602431952-tech](https://github.com/sachin8602431952-tech)  
@@ -62,9 +62,9 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaiswaladi246&show_icons=true&locale=en&layout=compact&theme=vue&hide_border=true" alt="Top Langs" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachin8602431952-tech&show_icons=true&locale=en&layout=compact&theme=vue&hide_border=true" alt="Top Langs" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaiswaladi246&show_icons=true&locale=en&theme=vue&hide_border=true" alt="GitHub Stats" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sachin8602431952-tech&show_icons=true&locale=en&theme=vue&hide_border=true" alt="GitHub Stats" /></p>
 
 ---
 ### 🔥 GitHub Contribution Streak
@@ -74,7 +74,7 @@
 ---
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=jaiswaladi246&limit=5&theme=flat&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=sachin8602431952-tech&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
 ---
 
