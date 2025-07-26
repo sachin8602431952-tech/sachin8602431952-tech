@@ -4,16 +4,16 @@
   <img src="https://github.com/sachin8602431952-tech/sachin8602431952-tech/blob/main/Banner.png" alt="DevOpsShack Banner">
 </div>
 
-<h3 align="center">A passionate DevOps Engineer from India. I work in the Corporate IT Sector and in my free time I make YouTube videos at <a href="https://www.youtube.com/@devopsshack" target="_blank">DevOpsShack</a></h3>
+<h3 align="center">🌟 Hey there! I'm Sachin Sangam, currently diving into the world of BTech in Computer Science.deos at <a href="https://www.youtube.com/@devopsshack" target="_blank">DevOpsShack</a></h3>
 
 <p align="center">
-  <a href="https://github.com/jaiswaladi246">
+  <a href="https://www.instagram.com/sach.insangam?igsh=am51cXFkaHFkbzM=">
     <img src="https://img.shields.io/github/followers/jaiswaladi246?label=Follow&style=social" />
   </a>
-  <a href="https://www.youtube.com/@devopsshack">
+  <a href="https://www.youtube.com/@SachinTech-2k">
     <img src="https://img.shields.io/youtube/channel/subscribers/UC1XLb_DoX2eNWGKjkh2epwA?style=social" />
   </a>
-  <a href="https://linkedin.com/in/adityajaiswal7">
+  <a href="https://www.linkedin.com/in/sachin-sangam- ">
     <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Jaiswal-blue?logo=linkedin&style=flat-square" />
   </a>
 </p>
