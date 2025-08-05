@@ -1,10 +1,10 @@
 <h1 align="center">Hey Everyone 👋, I'm Sachin Sangam</h1>
 
 <div align="center">
-  <img src="https://github.com/jaiswaladi246/jaiswaladi246/blob/main/Banner.png" alt="DevOpsShack Banner">
+  <img src="">
 </div>
 
-<h3 align="center">🌟 Hey there! I'm Sachin Sangam, currently diving into the world of BTech in Computer Science. <a href="https://www.youtube.com/@devopsshack" target="_blank">DevOpsShack</a></h3>
+<h3 align="center">🌟 Hey there! I'm Sachin Sangam, currently diving into the world of BTech in Computer Science. <a href="https://www.youtube.com/@devopsshack" target="_blank">Sachin Sangam</a></h3>
 
 <p align="center">
   <a href="https://github.com/sachin8602431952-tech">
