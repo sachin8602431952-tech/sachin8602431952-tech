@@ -10,7 +10,7 @@
   <a href="https://github.com/sachin8602431952-tech">
     <img src="https://img.shields.io/github/followers/sachin8602431952-tech?label=Follow&style=social" />
   </a>
-  <a href="https://www.youtube.com/@SachinTech-2k">
+  <a href="https://youtube.com/@technologycomputerguide?si=UxeSEXD_IbYyW4Sp">
     <img src="https://img.shields.io/youtube/channel/subscribers/UC1XLb_DoX2eNWGKjkh2epwA?style=social" />
   </a>
   <a href="https://www.linkedin.com/in/sachin-sangam-">
